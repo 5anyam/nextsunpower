@@ -66,13 +66,13 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
 
         {/* Featured Image */}
         {post.yoast_head_json?.og_image?.[0]?.url && (
-          <div className="mb-8">
+          <div className="mb-4">
             <Image
               src={post.yoast_head_json.og_image[0].url}
               alt="Featured"
               width={900}
               height={600}
-              className="rounded-md w-full h-auto object-cover"
+              className="rounded-xl w-full h-auto object-cover"
               priority
             />
           </div>
