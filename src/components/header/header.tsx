@@ -17,8 +17,8 @@ export function Header() {
         <div className="w-full flex items-center justify-between lg:justify-start lg:w-auto">
           {/* Logo */}
           <Link href="/">
-            <Image className="hidden lg:block pr-8" src="/nextsunpower-logo.svg" alt="Logo" width={220} height={120} />
-            <Image className="block lg:hidden" src="/nextsunpower-logo.svg" alt="Logo" width={160} height={80} />
+            <Image className="hidden lg:block pr-8" src="/nextsunpower-logo.svg" alt="NextSunPowerLogo" width={260} height={140} />
+            <Image className="block lg:hidden" src="/nextsunpower-logo.svg" alt="NextSunPowerLogo" width={160} height={80} />
           </Link>
 
           {/* Hamburger (mobile only) */}
@@ -43,7 +43,7 @@ export function Header() {
         <div className={`w-full lg:flex lg:items-center lg:justify-between ${isOpen ? "block" : "hidden"}`}>
           <div className="flex flex-col lg:flex-row lg:items-center lg:space-x-6 text-gray-600 mt-4 lg:mt-0">
             <Link href="https://www.nextsunpower.com" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Home</Link>
-            <Link href="#" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Pest Library </Link>
+            <Link href="#" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Solar Services </Link>
             <Link href="https://www.nextsunpower.com/blog" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Blogs</Link>
             <Link href="https://www.nextsunpower.com/about" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">About</Link>
             <Link href="https://www.nextsunpower.com/contact" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Contact</Link>
