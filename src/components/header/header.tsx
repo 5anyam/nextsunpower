@@ -17,8 +17,8 @@ export function Header() {
         <div className="w-full flex items-center justify-between lg:justify-start lg:w-auto">
           {/* Logo */}
           <Link href="/">
-            <Image className="hidden lg:block pr-8" src="/SayNoPest-logo.svg" alt="Logo" width={220} height={120} />
-            <Image className="block lg:hidden" src="/SayNoPest-logo.svg" alt="Logo" width={160} height={80} />
+            <Image className="hidden lg:block pr-8" src="/nextsunpower-logo.svg" alt="Logo" width={220} height={120} />
+            <Image className="block lg:hidden" src="/nextsunpower-logo.svg" alt="Logo" width={160} height={80} />
           </Link>
 
           {/* Hamburger (mobile only) */}
@@ -42,11 +42,11 @@ export function Header() {
         {/* Nav Links + Search + Socials */}
         <div className={`w-full lg:flex lg:items-center lg:justify-between ${isOpen ? "block" : "hidden"}`}>
           <div className="flex flex-col lg:flex-row lg:items-center lg:space-x-6 text-gray-600 mt-4 lg:mt-0">
-            <Link href="https://www.saynopest.com" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Home</Link>
+            <Link href="https://www.nextsunpower.com" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Home</Link>
             <Link href="#" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Pest Library </Link>
-            <Link href="https://www.saynopest.com/blog" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Blogs</Link>
-            <Link href="https://www.saynopest.com/about" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">About</Link>
-            <Link href="https://www.saynopest.com/contact" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Contact</Link>
+            <Link href="https://www.nextsunpower.com/blog" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Blogs</Link>
+            <Link href="https://www.nextsunpower.com/about" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">About</Link>
+            <Link href="https://www.nextsunpower.com/contact" className="mt-2 lg:mt-0 hover:text-gray-900 dark:hover:text-white">Contact</Link>
             {/* Search */}
             <div className="relative mt-4 lg:mt-0">
   <span className="absolute inset-y-0 left-0 flex items-center pl-3">
@@ -74,9 +74,9 @@ export function Header() {
 
           {/* Social Icons */}
           <div className="flex justify-center items-center space-x-4 mt-6 lg:mt-0">
-          <Link href="https://www.facebook.com/people/Saynopest/61575434679519/"><RiFacebookBoxLine className="text-black text-3xl" /></Link>
-          <Link href="https://www.instagram.com/saynopest/"><GrInstagram className="text-black text-2xl"/></Link>
-          <Link href="https://www.linkedin.com/company/saynopest/"><TbBrandLinkedin className="text-black text-3xl"/></Link>
+          <Link href="https://www.facebook.com/people/nextsunpower/61575434679519/"><RiFacebookBoxLine className="text-black text-3xl" /></Link>
+          <Link href="https://www.instagram.com/nextsunpower/"><GrInstagram className="text-black text-2xl"/></Link>
+          <Link href="https://www.linkedin.com/company/nextsunpower/"><TbBrandLinkedin className="text-black text-3xl"/></Link>
           <button className="p-2 border rounded-md bg-primary text-white">Free Quotation</button>
           </div>
         </div>

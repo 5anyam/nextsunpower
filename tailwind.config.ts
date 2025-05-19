@@ -10,7 +10,7 @@ export default {
     extend: {
       colors: {
         background: "var(--background)",
-        primary: "#6daf8a",
+        primary: "#1E90FF",
       },
       keyframes: {
         fadeIn: {

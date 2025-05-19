@@ -1,6 +1,6 @@
 // lib/queries.ts
 
-const baseUrl = "https://static.saynopest.com";
+const baseUrl = "https://cms.nextsunpower.com";
 import { ExtendedPost, Category, Author } from "@/lib/types";
 
 const revalidateTime: number = 43200; // half day in seconds
