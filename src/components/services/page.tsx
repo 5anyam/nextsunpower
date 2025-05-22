@@ -11,7 +11,7 @@ export function Services() {
                     href="#" 
                     className="block w-full py-2 text-center text-3xl text-slate-700 transition-all"
                 >
-                    Pest Control <b className="text-primary">Services</b>
+                    Solar Panel <b className="text-primary">Services</b>
                 </a>
             </div>
     <div className="flex flex-row justify-start">

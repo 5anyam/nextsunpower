@@ -3,51 +3,51 @@ import Link from "next/link";
 export function ServiceCard() {
     const cardData = [
         {
-            title: "Termites",
+            title: "Solar Inverter",
             description:
-                "Termites in house can cause serious wood damage problems. These are the small, wood-eating pest that can cause heavy damage to properties.",
+                "The central point of any solar energy system is a solar inverter. It converts the DC electricity your solar panels produce into AC electricity that powers your home or business.",
             image:
-                "termites.jpg",
+                "solar-inverter.jpg",
                 category: "termites",
         },
         {
-            title: "Mosquitoes",
+            title: "Commercial Solar",
             description:
-                "As mosquito season comes to life, these tiny troublemakers can destroy your peaceful evening.",
+                "Power your business with clean energy and reduce overhead expenses. Our commercial solar systems are designed to work at peak levels, endure for years, and maximize returns. ",
             image:
-                "mosquitoes.jpg",
+                "commercial.jpg",
                 category: "mosquitoes",
         },
         {
-            title: "Ants",
+            title: "Residential Solar",
             description:
-                "Did you know ants lifespan is much longer than you expect. These tiny intruders can live up to years at your house, without you noticing. Remove these unwanted guest effectively and efficiently.",
+                "Electrify your home independently with our cutting-edge residential solar panel systems. Created to be a hassle-free part of your roof and life, our systems save on electricity bills.",
             image:
-                "ants.jpg",
+                "residential.jpg",
                 category: "ants",
         },
         {
-            title: "Spiders",
+            title: "Watts",
             description:
-                "Spiders are dangerous creepy Crawlers  having  their own unique traits and abilities. Remove all the types of spiders whether it is jumping or flying  and discover what makes them so interesting!.",
+                "Solar panel arrays are rated in watts—the higher the wattage, the greater your system's power output. From an intimate 3kW setup for a residence to a commercial 100kW+ array for business real estate.",
             image:
-                "spiders.jpg",
+                "watts.jpg",
                 category: "spiders",
         },
         {
-            title: "Cockroaches",
+            title: "Solar Panel Cleaning",
             description:
-                "Cockroach are creepy, agreed right? Roaches can survive in harsh environments and they thrive in warm and humid parts of your home.",
+                "Dust, dirt, and weather conditions can decrease your solar panel performance by as much as 25%. Our solar panel cleaning services restore optimal functioning and save your investment.",
             image:
-                "cockroaches.jpg",
+                "cleaning.jpg",
                 category: "cockroaches",
         },
         {
-            title: "Bugs",
+            title: "Solar Installation",
             description:
-                "Bugs can silently invade your home, often going unnoticed until they become a major problem. Ever wondered where do bed bugs come from? These pests usually hitchhike in your luggage when you travel, clothes, or in second hand furniture.",
+                "Our turnkey solar installation is trouble-free, safe, and code compliant. We start with a free site analysis, system design, permitting, and professional installation by licensed professionals.",
             image:
-                "bugs.jpg",
+                "installation.jpg",
                 category: "bed-bugs",
         },
     ]
