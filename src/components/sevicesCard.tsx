@@ -82,7 +82,7 @@ export function ServiceCard() {
                             <button className="block mx-1 w-full rounded-lg bg-primary py-3.5 px-3 text-sm font-bold uppercase text-white shadow-md hover:shadow-lg transition-all">
                                 Book Now
                             </button>
-                            <Link href={`https://www.saynopest.com/category/${card.category}`}><button className="block mx-1 w-full rounded-lg bg-gray-900 py-3.5 px-3 text-sm font-bold uppercase text-white shadow-md hover:shadow-lg transition-all">
+                            <Link href={`https://www.nextsunpower.com/category/${card.category}`}><button className="block mx-1 w-full rounded-lg bg-gray-900 py-3.5 px-3 text-sm font-bold uppercase text-white shadow-md hover:shadow-lg transition-all">
                                 Know More
                             </button></Link>
                         </div>

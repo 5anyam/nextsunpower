@@ -44,7 +44,6 @@ export function Clients(){
 
                         <p className="mt-3 text-gray-500 ">
                         SAYNOPEST will provide you with unbiased and well-researched data on the best service-providing companies.
-
                         </p>
                     </div>
                 </div>
@@ -94,23 +93,23 @@ export function Clients(){
 
         <div className="grid grid-cols-2 gap-8 md:grid-cols-6 lg:grid-cols-5">
             <div className="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
-                <img className="h-20 w-28" src="orkin.png" alt="orkin"/>
+                <img className="h-20 w-28" src="bluetti.png" alt="bluetti"/>
             </div>
 
             <div className="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
-            <img className="h-24 w-28" src="terminix.svg" alt="terminix"/>
+            <img className="h-24 w-28" src="ecoflow.png" alt="ecoflow"/>
             </div>
 
             <div className="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
-            <img className="h-20 w-24" src="diy.png" alt="diy"/>
+            <img className="h-20 w-24" src="jackery.png" alt="jackery"/>
             </div>
 
             <div className="flex items-center justify-center col-span-1 md:col-span-3 lg:col-span-1">
-            <img className="h-20 w-28" src="aptive.webp" alt="aptive"/>
+            <img className="h-20 w-28" src="firstsolar.webp" alt="firstsolaar"/>
             </div>
 
             <div className="flex items-center justify-center col-span-2 md:col-span-3 lg:col-span-1">
-            <img className="h-20 w-24" src="truly-nolen.svg" alt="truly-nolen"/>
+            <img className="h-20 w-24" src="goal-zero.png" alt="goal-zero"/>
             </div>
         </div>
     </div>
