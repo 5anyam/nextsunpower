@@ -64,7 +64,7 @@ export function Header() {
         <div className={`w-full lg:flex lg:items-center lg:justify-between ${isOpen ? "block" : "hidden"}`}>
           <div className="flex flex-col lg:flex-row lg:items-center lg:space-x-6 text-gray-600 mt-4 lg:mt-0">
             <Link href="/" className="mt-2 lg:mt-0 hover:text-gray-900">Home</Link>
-            <Link href="/pest-library" className="mt-2 lg:mt-0 hover:text-gray-900">Pest Library</Link>
+            <Link href="/pest-library" className="mt-2 lg:mt-0 hover:text-gray-900">Solar Library</Link>
             <Link href="/blog" className="mt-2 lg:mt-0 hover:text-gray-900">Blogs</Link>
             <Link href="/about" className="mt-2 lg:mt-0 hover:text-gray-900">About Us</Link>
             <Link href="/contact" className="mt-2 lg:mt-0 hover:text-gray-900">Contact Us</Link>
