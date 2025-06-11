@@ -102,7 +102,7 @@ export default function EstimateModal() {
 
             <p className="text-xs text-center mt-4 text-gray-500">
               This site is protected by reCAPTCHA and the Google&nbsp;
-              <a href="https://www.saynopest.com/privacy-policy" className="underline">Privacy Policy</a> and <a href="https://www.saynopest.com/terms-and-conditions" className="underline">Terms of Service</a> apply.
+              <a href="https://www.nextsunpower.com/privacy-policy" className="underline">Privacy Policy</a> and <a href="https://www.nextsunpower.com/terms-and-conditions" className="underline">Terms of Service</a> apply.
             </p>
           </div>
         </div>

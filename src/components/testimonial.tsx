@@ -9,30 +9,30 @@ export function Testimonials() {
     const testimonials = [
         {
             quote:
-                "I was dealing with ants for weeks and nothing worked. Then I found SayNoPest, and they helped me connect with a professional Pest Control service near me. Within a day, the issue was completely gone. Super easy and stress-free!",
-            name: "Jessica M.",
-            title: "Austin, TX",
+                "I had NextSunPower clean my solar panels and It turned out to be the best decision. They were polite, professional, and went above and beyond to ensure all of my panels were clean. Output on my system increased significantly after maintenance. I commend them on their professionalism and would use them again without hesitation.",
+            name: "David Thompson",
+            title: "Phoenix, AZ",
             image: "/avatar/girl-1.avif",
         },
         {
             quote:
-                "Saynopest has made it so simple to find a reliable pest control company for me. I was able to book someone the same day, and the professionals was friendly and very thorough. They guide me about the termites and how we can prevent them.  Highly recommend!",
-            name: "Brian L.",
+                "From the consultation to the final installation, NextSunPower's personnel was transparent and courteous. They walked me through everything and kept me in the loop throughout. The installation itself moved very fast, and the system has been running perfectly since then. Their customer support is unbeatable.",
+            name: "Linda Garcia ",
             title: "Orlando, FL",
             image: "/avatar/boy-1.avif",
         },
         {
             quote:
-                "I  had a serious Cockroach problem in our backyard and in our entire property. I came across with SayNoPest while searching online, and they helped me get in touch with a trusted local Pest Control team. My Problem solved quickly and safely!",
-            name: "Tina R.",
-            title: "Sacramento, CA",
+                "I have had NextSunPower's solar panels for over a year now and their cleaning and maintenance services are really great. Booking an appointment is not that much of a hassle, and the team is always punctual. They monitor the system performance and ensure everything runs smoothly.",
+            name: "Vinni Maxwell",
+            title: "Delaware",
             image: "/avatar/girl-2.avif",
         },
         {
             quote:
-                "I’ve tried calling around for pest services before also, and it was always a hassle for me. SayNoPest saved me this time by showing me the best options available for Pest control near me. They provide a complete short guide of many Pest Control service providers and compare their service features and reviews, which helps me to make my decision fast.",
-            name: "James P.",
-            title: "New York, US",
+                "NextSunPower made the switch to solar incredibly easy for my family. The installation team arrived on time, explained every step, and finished the job efficiently. They even cleaned up thoroughly after themselves, leaving our property spotless. I’m already seeing savings on my energy bill and couldn’t be happier with the process.",
+            name: "Jessica Miller",
+            title: "Austin, TX",
             image: "/avatar/boy-2.jpeg",
         },
     ];

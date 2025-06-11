@@ -23,10 +23,27 @@ export function Clients(){
                     </span>
 
                     <div className="mt-4 md:mx-4 md:mt-0">
-                        <h3 className="text-xl font-semibold text-gray-700 capitalize">Educational and Comparison Hub</h3>
+                        <h3 className="text-xl font-semibold text-gray-700 capitalize">Efficiency & Power
+                        </h3>
+                        <p className="mt-3 text-gray-500 dark:text-gray-300">
+                        Our solar systems are engineered for optimal performance and energy efficiency, so you get the maximum output and faster return on investment — even in low-light conditions.
+                        </p>
 
-                        <p className="mt-3 text-gray-500 ">
-                        Your one and only place for comparative rates and services. 
+                    </div>
+                </div>
+
+                <div className="md:flex md:items-start md:-mx-4">
+                    <span className="inline-block p-2 text-primary bg-green-100 rounded-xl md:mx-4 ">
+                        <svg xmlns="http://www.w3.org/2000/svg" className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
+                        </svg>
+                    </span>
+
+                    <div className="mt-4 md:mx-4 md:mt-0">
+                        <h3 className="text-xl font-semibold text-gray-700 capitalize">Trust & Warranty
+                        </h3>
+                        <p className="mt-3 text-gray-500 dark:text-gray-300">
+                        With NABCEP-certified installers, top-quality equipment, and longer warranties, we offer solar solutions you can trust for decades — with complete service and support.
 
                         </p>
                     </div>
@@ -40,29 +57,13 @@ export function Clients(){
                     </span>
 
                     <div className="mt-4 md:mx-4 md:mt-0">
-                        <h3 className="text-xl font-semibold text-gray-700 capitalize">Opinion Hub</h3>
-
-                        <p className="mt-3 text-gray-500 ">
-                        SAYNOPEST will provide you with unbiased and well-researched data on the best service-providing companies.
-
-                        </p>
-                    </div>
-                </div>
-
-                <div className="md:flex md:items-start md:-mx-4">
-                    <span className="inline-block p-2 text-primary bg-green-100 rounded-xl md:mx-4 ">
-                        <svg xmlns="http://www.w3.org/2000/svg" className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
-                        </svg>
-                    </span>
-
-                    <div className="mt-4 md:mx-4 md:mt-0">
-                        <h3 className="text-xl font-semibold text-gray-700 capitalize ">Smart Match</h3>
-
-                        <p className="mt-3 text-gray-500 ">
-                        We connect you with the best pest control experts in the area (based on Price, Rating, and availability).
+                        <h3 className="text-xl font-semibold text-gray-700 capitalize ">High Quality Work
+                        </h3>
+                        <p className="mt-3 text-gray-500 dark:text-gray-300">
+                        Each job is handled by trained experts who focus on safety, precision, and code-governed installation — quality that you can see and reliability that you can feel.
 
                         </p>
+                    
                     </div>
                 </div>
 
@@ -75,11 +76,12 @@ export function Clients(){
                     </span>
 
                     <div className="mt-4 md:mx-4 md:mt-0">
-                        <h3 className="text-xl font-semibold text-gray-700 capitalize ">Transparency</h3>
+                        <h3 className="text-xl font-semibold text-gray-700 capitalize ">24/7 Customer Support
+
+                        </h3>
 
                         <p className="mt-3 text-gray-500 dark:text-gray-300">
-                        No hidden agendas, just honest comparisons, clear reviews, and real user experiences.
-
+                        We are there 24/7. From a quick inquiry or an ongoing service need, our expert team makes sure that you are never left behind — even post-installation.
                         </p>
                     </div>
                 </div>

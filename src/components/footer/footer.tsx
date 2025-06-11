@@ -15,10 +15,10 @@ export function Footer() {
                   <p className="font-semibold text-xl text-white">Quick Link</p>
   
                   <div className="flex flex-col items-start mt-5 space-y-2">
-                      <a href="https://www.saynopest.com/" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Home</a>
-                      <a href="https://www.saynopest.com/contact" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Contact Us</a>
-                      <Link href="https://www.saynopest.com/about"><h6 className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">About Us</h6></Link>
-                      <a href="https://www.saynopest.com/blog" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Blogs</a>
+                      <a href="https://www.nextsunpower.com/" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Home</a>
+                      <a href="https://www.nextsunpower.com/contact" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Contact Us</a>
+                      <Link href="https://www.nextsunpower.com/about"><h6 className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">About Us</h6></Link>
+                      <a href="https://www.nextsunpower.com/blog" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Blogs</a>
                   </div>
               </div>
   
@@ -26,10 +26,10 @@ export function Footer() {
                   <p className="font-semibold text-xl text-white">Services</p>
   
                   <div className="flex flex-col items-start mt-5 space-y-2">
-                      <a href="https://www.saynopest.com/category/termites" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Termites</a>
-                      <a href="https://www.saynopest.com/category/mosquitoes" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Mosquitoes</a>
-                      <a href="https://www.saynopest.com/category/ants" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Ants</a>
-                      <a href="https://www.saynopest.com/category/spiders" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Spiders</a>
+                      <a href="https://www.nextsunpower.com/category/watts" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Watts</a>
+                      <a href="https://www.nextsunpower.com/category/residential-solar" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Residential Solar</a>
+                      <a href="https://www.nextsunpower.com/category/commercial-solar" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Commercial Solar</a>
+                      <a href="https://www.nextsunpower.com/category/solar-inverter" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Solar Inverter</a>
                   </div>
               </div>
   
@@ -37,10 +37,10 @@ export function Footer() {
                   <p className="font-semibold text-xl text-white dark:text-white">Useful Links</p>
   
                   <div className="flex flex-col items-start mt-5 space-y-2">
-                  <Link href="https://www.saynopest.com/privacy-policy"><h6 className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Privacy Policy</h6></Link>
-                      <a href="https://www.saynopest.com/terms-and-conditions" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Terms and conditions</a>
-                      <a href="https://www.saynopest.com/disclaimer" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Disclaimer</a>
-                      <a href="https://saynopest.com/sitemap.xml" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Sitemap</a>
+                  <Link href="https://www.nextsunpower.com/privacy-policy"><h6 className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Privacy Policy</h6></Link>
+                      <a href="https://www.nextsunpower.com/terms-and-conditions" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Terms and conditions</a>
+                      <a href="https://www.nextsunpower.com/disclaimer" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Disclaimer</a>
+                      <a href="https://www.nextsunpower.com/sitemap.xml" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Sitemap</a>
                   </div>
               </div>
   
@@ -51,11 +51,11 @@ export function Footer() {
                   <a href="#" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">Digimach 10 LLC</a>
                       <a href="#" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">16192 Coastal Highway, Lewes, Delaware 19958, Country of Sussex, USA.</a>
                       <a href="#" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">+121-7773-5600</a>
-                      <a href="#" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">support@saynopest.com</a>
+                      <a href="#" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">support@nextsunpower.com</a>
                      <div className="flex flex-row items-center">
                      <Link href="https://www.facebook.com/people/Saynopest/61575434679519/"><RiFacebookBoxLine className="text-white text-3xl" /></Link>
-                    <Link href="https://www.instagram.com/saynopest/"><GrInstagram className="text-white mx-2 text-2xl"/></Link>
-                    <Link href="https://www.linkedin.com/company/saynopest/"><TbBrandLinkedin className="text-white text-3xl"/></Link>
+                    <Link href="https://www.instagram.com/nextsunpower/"><GrInstagram className="text-white mx-2 text-2xl"/></Link>
+                    <Link href="https://www.linkedin.com/company/nextsunpower/"><TbBrandLinkedin className="text-white text-3xl"/></Link>
                         </div> 
                   </div>
               </div>
@@ -65,10 +65,10 @@ export function Footer() {
           
           <div className="flex flex-col items-center py-2 w-full rounded-xl mt-5 bg-white justify-between px-2 sm:flex-row">
               <a href="#">
-                  <img className="ml-2 w-auto h-12" src="SayNoPest-logo.svg" alt="logo"/>
+                  <img className="ml-2 w-auto h-12" src="nextsunpower-logo.svg" alt="logo"/>
               </a>
   
-              <p className="mt-4 text-sm text-center text-gray-800 text-xs lg:text-left lg:text-sm sm:mt-0">©Copyright Saynopest 2025. <br className="block lg:hidden"/> All Rights Reserved.</p>
+              <p className="mt-4 text-sm text-center text-gray-800 text-xs lg:text-left lg:text-sm sm:mt-0">©Copyright Nextsunpower 2025. <br className="block lg:hidden"/> All Rights Reserved.</p>
           </div>
       </div>
   </div>

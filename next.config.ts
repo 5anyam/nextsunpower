@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
     ignoreDuringBuilds: true,
   },
   images: {
-    domains: ['static.saynopest.com','remotePatterns'],
+    domains: ['cms.nextsunpower.com','remotePatterns'],
   },
 };
 
