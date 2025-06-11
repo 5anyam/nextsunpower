@@ -88,7 +88,7 @@ export function Clients(){
             </div>
 
             <div className="hidden lg:flex lg:items-center lg:w-1/2 lg:justify-center">
-                <img className="object-cover" src="USP.gif" alt="USP"/>
+                <img className="object-cover" src="NextSunPower.gif" alt="NextSunPower-Usp"/>
             </div>
         </div>
 
