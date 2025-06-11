@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from 'next/font/google'
 import "./globals.css";
-import Script from "next/script";
+// import Script from "next/script";
 
 
 import { Header } from "@/components/header/header";
@@ -10,16 +10,16 @@ import { Footer } from "@/components/footer/footer";
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: "Say No Pest",
-  description: "Your go to best pest control companies across U.S.",
+  title: "Next Sun Power",
+  description: "Tap into the boundless potential of the sun with NextSunPower – your go-to solar energy company.",
   openGraph: {
-    title: "Say No Pest",
-    description: "Top pest control services across the U.S.",
-    url: "https://saynopest.com",
-    siteName: "Say No Pest",
+    title: "Next Sun Power",
+    description: "Tap into the boundless potential of the sun with NextSunPower – your go-to solar energy company.",
+    url: "https://nextsunpower.com",
+    siteName: "Next Sun Power",
     images: [
       {
-        url: "/SayNoPest-logo.svg", // Place this image in /public
+        url: "/nextsunpower-logo.svg", // Place this image in /public
         width: 1200,
         height: 630,
       },
@@ -29,11 +29,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Say No Pest",
-    description: "Your go to best pest control companies across U.S.",
-    images: ["/SayNoPest-logo.svg"],
+    title: "Next Sun Power",
+    description: "Tap into the boundless potential of the sun with NextSunPower – your go-to solar energy company.",
+    images: ["/nextsunpower-logo.svg"],
   },
-  metadataBase: new URL("https://saynopest.com"),
+  metadataBase: new URL("https://nextsunpower.com"),
 };
 
 
@@ -45,9 +45,8 @@ export default function RootLayout({
   return (
     <html lang="en">
      <head>
-     <meta name="google-adsense-account" content="ca-pub-7212342270102504"/>
-  <link rel="canonical" href="https://www.saynopest.com/" />
-  <Script
+  <link rel="canonical" href="https://www.nextsunpower.com/" />
+  {/* <Script
     src="https://www.googletagmanager.com/gtag/js?id=G-8BRKYL2QR2"
     strategy="afterInteractive"
   />
@@ -58,7 +57,7 @@ export default function RootLayout({
       gtag('js', new Date());
       gtag('config', 'G-8BRKYL2QR2');
     `}
-  </Script>
+  </Script> */}
 </head>
       <body
         className={`${inter.className}

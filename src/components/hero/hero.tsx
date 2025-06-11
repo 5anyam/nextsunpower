@@ -12,7 +12,7 @@ export function Hero() {
             <a className="inline-flex items-center justify-center mr-3 mb-2 text-sm lg:text-base font-medium text-center text-white rounded-lg bg-primary hover:bg-green-800 focus:ring-4 focus:ring-primary-300">
               <EstimateModal/>
             </a>
-            <a href="https://www.saynopest.com/contact" className="inline-flex items-center justify-center px-5 py-3 text-sm lg:text-base font-medium text-center text-black border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100">
+            <a href="https://www.nextsunpower.com/contact" className="inline-flex items-center justify-center px-5 py-3 text-sm lg:text-base font-medium text-center text-black border border-gray-300 rounded-lg hover:bg-gray-100 focus:ring-4 focus:ring-gray-100">
                 Explore Further
             </a> 
         </div>
