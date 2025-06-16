@@ -31,7 +31,7 @@ export function ServiceCard() {
             description:
                 "Solar panel arrays are rated in watts—the higher the wattage, the greater your system's power output. From an intimate 3kW setup for a residence to a commercial 100kW+ array for business real estate, we design each system specifically for your energy needs and roof area. Our professionals explain to you how much wattage you should get for optimal performance and savings.",
             image:
-                "/types/diy-solar-panel.jpg",
+                "/types/diy-solar-panel.webp",
                 category: "diy-solar-panel",
         },
         {
