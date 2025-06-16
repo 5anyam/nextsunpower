@@ -150,21 +150,14 @@ export default async function Page({ params }: { params: Promise<{ slug: string 
                 />
               </div>
               <div>
-                <label className="block text-sm font-medium">Service</label>
+                <label className="block text-sm font-medium">Services</label>
                 <select className="mt-1 w-full px-3 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-green-400">
-                  <option>Termite Control</option>
-                  <option>Rodent Removal</option>
-                  <option>General Pest Control</option>
-                  <option>Ants Control</option>
-                  <option>Bed Bugs Control</option>
-                  <option>Earwigs Control</option>
-                  <option>Silver Fish Control</option>
-                  <option>Flies Control</option>
-                  <option>Flea Control</option>
-                  <option>Mosquitoes Control</option>
-                  <option>Wasps Control</option>
-                  <option>Moths Control</option>
-                  <option>Ticks Control</option>
+                  <option>Solar Panel Cleaning</option>
+                  <option>Solar Inverter</option>
+                  <option>Commercial Solar</option>
+                  <option>Residential Solar</option>
+                  <option>DIY Solar Panel</option>
+                  <option>Solar Installation</option>
                 </select>
               </div>
               <button

@@ -7,7 +7,7 @@ export function ServiceCard() {
             description:
                 "The central point of any solar energy system is a solar inverter. It converts the DC electricity your solar panels produce into AC electricity that powers your home or business. Modern inverters not only maximize energy generation, but they also provide smart monitoring that enables you to monitor performance in real-time. If you require a string inverter, microinverter, or hybrid solution, we offer custom versions to ensure peak efficiency and reliability.",
             image:
-                "types/solar-inverter.jpg",
+                "/types/solar-inverter.jpg",
                 category: "solar-inverter",
         },
         {
@@ -15,7 +15,7 @@ export function ServiceCard() {
             description:
                 "Power your business with clean energy and reduce overhead expenses. Our commercial solar systems are designed to work at peak levels, endure for years, and maximize returns. Warehouse, office buildings, or factories – we create customized installations to meet your energy requirements and earn federal tax credits and local incentives. Minimize your carbon footprint and save on lower energy rates for decades.",
             image:
-                "types/commercial-solar-panels.jpg",
+                "/types/commercial-solar-panels.jpg",
                 category: "commercial-solar-panels",
         },
         {
@@ -23,7 +23,7 @@ export function ServiceCard() {
             description:
                 "Electrify your home independently with our cutting-edge residential solar panel systems. Created to be a hassle-free part of your roof and life, our systems save on electricity bills, boost property value, and offer long-term energy independence. We take care of everything—permitting through installation—to provide a seamless, trouble-free process backed by industry-leading warranties.",
             image:
-                "types/residential-solar-panel.jpg",
+                "/types/residential-solar-panel.jpg",
                 category: "residential-solar-panel",
         },
         {
@@ -31,7 +31,7 @@ export function ServiceCard() {
             description:
                 "Solar panel arrays are rated in watts—the higher the wattage, the greater your system's power output. From an intimate 3kW setup for a residence to a commercial 100kW+ array for business real estate, we design each system specifically for your energy needs and roof area. Our professionals explain to you how much wattage you should get for optimal performance and savings.",
             image:
-                "types/diy-solar-panel.jpg",
+                "/types/diy-solar-panel.jpg",
                 category: "diy-solar-panel",
         },
         {
@@ -39,7 +39,7 @@ export function ServiceCard() {
             description:
                 "Dust, dirt, and weather conditions can decrease your solar panel performance by as much as 25%. Our solar panel cleaning services restore optimal functioning and save your investment. Cleaning your panels with non-abrasive Utensil and filtered water leaves them sparkling and performing at their best throughout the year.",
             image:
-                "types/solar-panel-cleaning.jpg",
+                "/types/solar-panel-cleaning.jpg",
                 category: "solar-panel-cleaning",
         },
         {
@@ -47,7 +47,7 @@ export function ServiceCard() {
             description:
                 "Our turnkey solar installation is trouble-free, safe, and code compliant. We start with a free site analysis, system design, permitting, and professional installation by licensed professionals. From rooftop, ground-mount, to carport installation, we implement high-quality materials and state-of-the-art equipment to ensure greater quality and performance right from day one.",
             image:
-                "types/solar-panel-installation.jpg",
+                "/types/solar-panel-installation.jpg",
                 category: "solar-panel-installation",
         },
     ]
@@ -78,7 +78,7 @@ export function ServiceCard() {
                         </div>
                         <p className="text-base font-light text-gray-700">{card.description}</p>
                         <div className="flex flex-row justify-center p-3">
-                            <Link href={`https://www.nextsunpower.com/services/${card.category}`}><button className="block mx-1 w-full px-20 rounded-lg bg-gray-900 py-3.5 text-sm font-bold uppercase text-white shadow-md hover:shadow-lg transition-all">
+                            <Link href={`https://www.nextsunpower.com/category/${card.category}`}><button className="block mx-1 w-full px-20 rounded-lg bg-gray-900 py-3.5 text-sm font-bold uppercase text-white shadow-md hover:shadow-lg transition-all">
                                 Know More
                             </button></Link>
                         </div>
