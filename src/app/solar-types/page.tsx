@@ -61,7 +61,7 @@ Types of Solar Panel</h1>
         {solars.map((solar, index) => (
           <Link
             key={index}
-            href={`https://www.saynopest.com/category/${solar.category}`}
+            href={`https://www.nextsunpower.com/category/${solar.category}`}
             className="block bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300"
           >
             <div className="relative w-full h-80">

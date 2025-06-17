@@ -55,7 +55,7 @@ export default function Page() {
           </div>
           <div>
             <h3 className="text-xl font-medium text-primary mb-2">Email</h3>
-            <p className="text-gray-600"><a href="mailto:support@saynopest.com" className="text-primary">support@saynopest.com</a></p>
+            <p className="text-gray-600"><a href="mailto:support@nextsunpower.com" className="text-primary">support@nextsunpower.com</a></p>
           </div>
         </div>
 
