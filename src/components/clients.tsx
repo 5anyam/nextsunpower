@@ -96,27 +96,27 @@ export function Clients(){
 
         <div className="grid grid-cols-2 gap-6 md:grid-cols-6 lg:grid-cols-6">
             <div className="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
-                <img className="h-20 w-28" src="orkin.png" alt="orkin"/>
+                <img className="h-20 w-28" src="bluetti-logo.webp" alt="bluetti-logo"/>
             </div>
 
             <div className="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
-            <img className="h-24 w-28" src="terminix.svg" alt="terminix"/>
+            <img className="h-24 w-28" src="ecoflow-logo.png" alt="ecoflow"/>
             </div>
 
             <div className="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
-            <img className="h-20 w-24" src="diy.png" alt="diy"/>
+            <img className="h-20 w-24" src="goal-zero.webp" alt="goal-zero"/>
             </div>
 
             <div className="flex items-center justify-center col-span-1 md:col-span-3 lg:col-span-1">
-            <img className="h-20 w-28" src="aptive.webp" alt="aptive"/>
+            <img className="h-14 w-28" src="jackery_logo.avif" alt="jackery-logo"/>
             </div>
             
             <div className="flex items-center justify-center col-span-1 md:col-span-3 lg:col-span-1">
-            <img className="h-16 w-24" src="ehrlich.jpg" alt="ehrlich"/>
+            <img className="h-16 w-24" src="logo-first-solar-1.png" alt="first-solar"/>
             </div>
 
             <div className="flex items-center justify-center col-span-1 md:col-span-3 lg:col-span-1">
-            <img className="h-20 w-24" src="truly-nolen.svg" alt="truly-nolen"/>
+            <img className="h-22 w-28" src="sunpower_logo.jpg" alt="sunpower-logo"/>
             </div>
         </div>
     </div>
