@@ -101,13 +101,13 @@ export function Header() {
 
           {/* Social Icons and CTA */}
           <div className="flex justify-center items-center space-x-4 mt-6 lg:mt-0">
-            <Link href="https://www.facebook.com/people/Saynopest/61575434679519/">
+            <Link href="#">
               <RiFacebookBoxLine className="text-black text-3xl" />
             </Link>
-            <Link href="https://www.instagram.com/saynopest/">
+            <Link href="#">
               <GrInstagram className="text-black text-2xl" />
             </Link>
-            <Link href="https://www.linkedin.com/company/saynopest/">
+            <Link href="#">
               <TbBrandLinkedin className="text-black text-3xl" />
             </Link>
             <EstimateModal />

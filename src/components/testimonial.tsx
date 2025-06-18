@@ -45,7 +45,7 @@ export function Testimonials() {
                 </h2>
 
                 <p className="max-w-2xl mx-auto mt-6 text-center text-gray-500 dark:text-gray-300">
-                    Here’s what students and professionals have to say about their experience with Saynopest.
+                    Here’s what students and professionals have to say about their experience with Nextsunpower.
                 </p>
 
                 <div className="mt-10">
