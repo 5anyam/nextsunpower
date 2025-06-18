@@ -44,26 +44,21 @@ export function Clients(){
                         </h3>
                         <p className="mt-3 text-gray-500 dark:text-gray-300">
                         With NABCEP-certified installers, top-quality equipment, and longer warranties, we offer solar solutions you can trust for decades — with complete service and support.
-
                         </p>
                     </div>
                 </div>
-
                 <div className="md:flex md:items-start md:-mx-4">
                     <span className="inline-block p-2 text-primary bg-green-100 rounded-xl md:mx-4 ">
                         <svg xmlns="http://www.w3.org/2000/svg" className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
                         </svg>
                     </span>
-
                     <div className="mt-4 md:mx-4 md:mt-0">
                         <h3 className="text-xl font-semibold text-gray-700 capitalize ">High Quality Work
                         </h3>
                         <p className="mt-3 text-gray-500 dark:text-gray-300">
                         Each job is handled by trained experts who focus on safety, precision, and code-governed installation — quality that you can see and reliability that you can feel.
-
                         </p>
-                    
                     </div>
                 </div>
 
@@ -96,15 +91,15 @@ export function Clients(){
 
         <div className="grid grid-cols-2 gap-6 md:grid-cols-6 lg:grid-cols-6">
             <div className="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
-                <img className="h-20 w-28" src="bluetti-logo.webp" alt="bluetti-logo"/>
+            <img className="h-20 w-28" src="bluetti-logo.webp" alt="bluetti-logo"/>
             </div>
 
             <div className="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
-            <img className="h-24 w-28" src="ecoflow-logo.png" alt="ecoflow"/>
+            <img className="h-24 w-28" src="ecoflow-logo.png" alt="ecoflow-logo"/>
             </div>
 
             <div className="flex items-center justify-center col-span-1 md:col-span-2 lg:col-span-1">
-            <img className="h-20 w-24" src="goal-zero.webp" alt="goal-zero"/>
+            <img className="h-20 w-24" src="goal-zero.webp" alt="goal-zero-logo"/>
             </div>
 
             <div className="flex items-center justify-center col-span-1 md:col-span-3 lg:col-span-1">
@@ -112,11 +107,11 @@ export function Clients(){
             </div>
             
             <div className="flex items-center justify-center col-span-1 md:col-span-3 lg:col-span-1">
-            <img className="h-16 w-24" src="logo-first-solar-1.png" alt="first-solar"/>
+            <img className="h-16 w-24" src="logo-first-solar-1.png" alt="first-solar-logo"/>
             </div>
 
             <div className="flex items-center justify-center col-span-1 md:col-span-3 lg:col-span-1">
-            <img className="h-22 w-28" src="sunpower_logo.jpg" alt="sunpower-logo"/>
+            <img className="h-22 w-28" src="sunpower_logo.jpg" alt="sun-power-logo"/>
             </div>
         </div>
     </div>

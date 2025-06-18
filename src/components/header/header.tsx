@@ -29,14 +29,14 @@ export function Header() {
           <Link href="/">
             <Image
               className="hidden lg:block pr-8"
-              src="/nextsunpower-logo.svg"
+              src="/nextsunpower-logo.png"
               alt="Logo"
               width={220}
               height={120}
             />
             <Image
               className="block lg:hidden"
-              src="/nextsunpower-logo.svg"
+              src="/nextsunpower-logo.png"
               alt="Logo"
               width={160}
               height={80}
