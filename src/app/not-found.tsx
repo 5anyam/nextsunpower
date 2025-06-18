@@ -9,7 +9,7 @@ export default async function Page() {
       <p className="mt-2 text-gray-600">
         The page you&rsquo;re looking for doesn&rsquo;t exist.
       </p>
-      <Link href="https://www.saynopest.com/"><h1 className="mt-6 px-4 py-2 bg-amber-700 text-white rounded hover:bg-amber-700 transition">
+      <Link href="https://www.nextsunpower.com/"><h1 className="mt-6 px-4 py-2 bg-amber-700 text-white rounded hover:bg-amber-700 transition">
         Go back home
       </h1></Link>
     </div>
