@@ -54,7 +54,7 @@ export function Footer() {
                       <a href="#" className="text-white transition-colors duration-300 dark:hover:text-blue-400 hover:font-bold">support@nextsunpower.com</a>
                      <div className="flex flex-row items-center">
                      <Link href="https://www.facebook.com/profile.php?id=61577219382367"><RiFacebookBoxLine className="text-white text-3xl" /></Link>
-                    <Link href="#"><GrInstagram className="text-white mx-2 text-2xl"/></Link>
+                    <Link href="https://www.instagram.com/nextsunpower/"><GrInstagram className="text-white mx-2 text-2xl"/></Link>
                     <Link href="https://www.linkedin.com/company/nextsunpower/"><TbBrandLinkedin className="text-white text-3xl"/></Link>
                         </div> 
                   </div>

@@ -104,7 +104,7 @@ export function Header() {
             <Link href="https://www.facebook.com/profile.php?id=61577219382367">
               <RiFacebookBoxLine className="text-black text-3xl" />
             </Link>
-            <Link href="#">
+            <Link href="https://www.instagram.com/nextsunpower/">
               <GrInstagram className="text-black text-2xl" />
             </Link>
             <Link href="https://www.linkedin.com/company/nextsunpower/">
